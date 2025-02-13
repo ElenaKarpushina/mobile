@@ -12,6 +12,11 @@
 
 5. В итоге мною был подготовлен [Отчёт по результатам тестирования](https://docs.google.com/document/d/1ejrjiSe9mlu_bnbAIQAbNAmNrrPtFZDFz_nnGtCaCUs/edit?usp=sharing).
 
+В рамках домашнего задания "Тестирование мобильных приложений" с помошью [Charles Proxy](https://www.charlesproxy.com/documentation/installation/), были выполнены перехват и изменение трафика на мобильном устройстве Samsung Calaxy A52.
+
+1. Из корзины был удалён товар вместо другого, видео можно посмотреть [здесь](https://github.com/ElenaKarpushina/mobile/blob/main/Удаление%20товара.mp4).
+
+2. Была смоделирована ситуация, в которой при обращении к сайту интернет магазина [demoshopping.ru](https://qa.demoshopping.ru/) пользователь видит в браузере любую картинку. Изображение можно посмотреть [здесь](https://github.com/ElenaKarpushina/mobile/blob/main/Изображение.png).
 
 
 
