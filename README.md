@@ -8,7 +8,7 @@
 
 3. В [QASE](https://qase.io/) проведён [test run](https://github.com/ElenaKarpushina/mobile/blob/main/G9-Express%2Brun%2B2025_02_09.pdfs) и были найдены баги.
 
-4. С помощью [QASE](https://qase.io/) были созданы [отчёты о дефектах](https://github.com/ElenaKarpushina/mobile/blob/main/Issues%20(1).xlsx) и интегрированы в [Youtrack](https://www.jetbrains.com/youtrack/).
+4. С помощью [QASE](https://qase.io/) были созданы [отчёты о дефектах](https://github.com/ElenaKarpushina/mobile/blob/main/Отчёты%20о%20дефектах.xlsx) и интегрированы в [Youtrack](https://www.jetbrains.com/youtrack/).
 
 5. В итоге мною был подготовлен [Отчёт по результатам тестирования](https://docs.google.com/document/d/1ejrjiSe9mlu_bnbAIQAbNAmNrrPtFZDFz_nnGtCaCUs/edit?usp=sharing).
 
